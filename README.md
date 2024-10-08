@@ -1,4 +1,4 @@
-# Turning Household Items into Craft Ideas with AI
+# Turning Household Items into Craft Ideas with AI 🖼️🎨
 
 
 Imagine looking at random objects lying around your house and instantly being able to visualize creative ways to turn them into unique craft projects. This is exactly what the Picture-Based DIY Craft AI Generator does. Based on Wordware.ai, this tool helps to create specific ideas for home crafting with the help of AI. Just upload an image and let the AI come up with a craft idea for you!
@@ -15,7 +15,7 @@ Imagine looking at random objects lying around your house and instantly being ab
    
     ![image](https://github.com/user-attachments/assets/b3a5f9c0-df44-427d-9369-6974aa87ee00)
 
-3. **Start a Flow** 🌊
+3. **Start a Flow** 
 
     Next, click Create a New Flow. Give your flow a name and choose the type of input you want (Image, Text, File, Audio). For this project, select Image because you’ll be uploading 
    pictures of objects.
