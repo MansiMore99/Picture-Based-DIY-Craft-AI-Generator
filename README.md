@@ -24,13 +24,22 @@ Imagine looking at random objects lying around your house and instantly being ab
 
 4. **Set the Output** 🖼️
     
-    If you want the image or any kind of a file in output from AI , make sure to mention that here. In this case, we’re asking the AI to provide an image along with the craft idea.
+    If you want the image or any kind of a file in output from AI, make sure to mention A prompt for the previously created output in the Image generation step. In this case, we’re asking the AI to provide an image along with the craft idea.
 
-   <img width="1066" alt="Screenshot 2024-10-08 at 2 17 28 AM" src="https://github.com/user-attachments/assets/85061b99-5d3d-4d03-91ad-e85f0e4dd146">
+<img width="1111" alt="Screenshot 2024-10-08 at 2 21 18 AM" src="https://github.com/user-attachments/assets/47683d37-6948-4ec8-92c8-ecc4af84ac6f">
 
+  
+5. **Deploy the Application** 🚀
+   
+   After setting everything up, upload a picture of a random object, click the button.
 
+   <img width="1142" alt="Screenshot 2024-10-08 at 2 24 43 AM" src="https://github.com/user-attachments/assets/cfb0bdb3-96ad-4176-b808-bd67928cf676">
 
+6. **Craft Time!** 🎨
 
+   <img width="1157" alt="Screenshot 2024-10-08 at 2 26 17 AM" src="https://github.com/user-attachments/assets/268ff13e-4d80-4502-8d83-5da9be61bf83">
+
+   <img width="1140" alt="Screenshot 2024-10-08 at 2 26 00 AM" src="https://github.com/user-attachments/assets/f01f2a31-2046-4925-ad20-0075b90b3e20">
 
 
 ## App:
