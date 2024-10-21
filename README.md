@@ -24,27 +24,30 @@ Imagine looking at random objects lying around your house and instantly being ab
 
 4. **Set the Output** 🖼️
     
-    If you want the image or any kind of a file in output from AI, make sure to mention A prompt for the previously created output in the Image generation step. In this case, we’re asking the AI to provide an image along with the craft idea.
+    If you want the image or any kind of a file in output from AI, make sure to mention A prompt for the previously created output in the Image generation step. In this case, we’re 
+   asking the AI to provide an image along with the craft idea.
 
-<img width="1111" alt="Screenshot 2024-10-08 at 2 21 18 AM" src="https://github.com/user-attachments/assets/47683d37-6948-4ec8-92c8-ecc4af84ac6f">
+    <img width="1111" alt="Screenshot 2024-10-08 at 2 21 18 AM" src="https://github.com/user-attachments/assets/47683d37-6948-4ec8-92c8-ecc4af84ac6f">
 
   
 5. **Deploy the Application** 🚀
    
    After setting everything up, upload a picture of a random object, click the button.
 
-   <img width="1142" alt="Screenshot 2024-10-08 at 2 24 43 AM" src="https://github.com/user-attachments/assets/cfb0bdb3-96ad-4176-b808-bd67928cf676">
+   <img width="1465" alt="Screenshot 2024-10-21 at 12 39 01 PM" src="https://github.com/user-attachments/assets/064b28f9-1138-4eea-8a91-7e91e4c005a4">
+
 
 6. **Craft Time!** 🎨
 
-   <img width="1157" alt="Screenshot 2024-10-08 at 2 26 17 AM" src="https://github.com/user-attachments/assets/268ff13e-4d80-4502-8d83-5da9be61bf83">
+   <img width="1463" alt="Screenshot 2024-10-21 at 1 06 49 PM" src="https://github.com/user-attachments/assets/7fdd80b7-77fb-46d7-9d7f-6ffb68fb91d8">
 
-   <img width="1140" alt="Screenshot 2024-10-08 at 2 26 00 AM" src="https://github.com/user-attachments/assets/f01f2a31-2046-4925-ad20-0075b90b3e20">
+   <img width="1464" alt="Screenshot 2024-10-21 at 12 40 50 PM" src="https://github.com/user-attachments/assets/42bf243e-e6c4-4f02-a85c-28a82f298a64">
+
 
 
 ## App:
 
-https://app.wordware.ai/explore/apps/3d1c5b8c-d459-4e3d-beaa-e1c0e5cf77f1/run/3bb90aa1-509f-46ac-b9d7-6032b5c998aa
+https://app.wordware.ai/explore/apps/3d1c5b8c-d459-4e3d-beaa-e1c0e5cf77f1/run/e441fb56-0831-4508-88da-5d1298f0e2c8
 
 ## References:
 
