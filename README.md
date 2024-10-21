@@ -3,6 +3,8 @@
 
 Imagine looking at random objects lying around your house and instantly being able to visualize creative ways to turn them into unique craft projects. This is exactly what the Picture-Based DIY Craft AI Generator does. Based on Wordware.ai, this tool helps to create specific ideas for home crafting with the help of AI. Just upload an image and let the AI come up with a craft idea for you!
 
+   <img width="1464" alt="Screenshot 2024-10-21 at 12 40 50 PM" src="https://github.com/user-attachments/assets/42bf243e-e6c4-4f02-a85c-28a82f298a64">
+
  ## ⚙️ **How to Get Started:**
 
  1. **Sign in to Wordware.ai**🔑
